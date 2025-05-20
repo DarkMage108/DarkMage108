@@ -27,7 +27,7 @@ landscape.
 
 <p align="center">
   <h3>Main Skills</h3>    
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,vue,nuxt,tailwind,bootstrap,nodejs,express,php,laravel,python,django,mysql,postgresql,mongodb,redis,solidity,docker,go,rust,ruby,r,java,c,cs,aws,kotlin,haskell,nim,git,yarn,github,gitlab,npm,julia,pytorch,ai,tensorflow,graphql,opencv" /><br/>    
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,vue,nuxt,tailwind,nodejs,express,mysql,postgresql,mongodb,redis,solidity,docker,go,rust,aws,graphql" /><br/>    
 </p>
 
 <hr /> 
