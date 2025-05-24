@@ -1,3 +1,5 @@
-I am a highly skilled Full-Stack Developer with extensive experience in building scalable, high performance web applications and blockchain
-solutions.
-I specialize in working with React, Node.js, Next.js,and Ethereum, Solana, Tron to deliver custom web development services to European and global clients in sectors like ecommerce, fintech, and Blockchain.
+👋 Hi, I’m a Full-Stack Developer specializing in scalable web and blockchain applications.<br/>
+💻 I work with React, Node.js, Next.js, and TypeScript to build modern, high-performance frontends and APIs.<br/>
+🔗 I develop smart contract solutions on Ethereum, Solana, and Tron, delivering robust blockchain systems.<br/>
+🌍 I collaborate with European and global clients across ecommerce, fintech, and Web3 sectors.<br/>
+🚀 Passionate about clean code, performance optimization, and shipping products that scale.<br/>
